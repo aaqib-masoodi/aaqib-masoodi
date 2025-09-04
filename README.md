@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aaqib-masoodi
-- 👀 I’m interested in building softwares and mobile applications
-- 🌱 I’m currently learning c and c++
-- 📫 How to reach me ... at @aaqibmasoodii
-- 😄 Pronouns: ... he/him
+👋 Hi, I’m @aaqib-masoodi
+  👀 I’m interested in building softwares and mobile applications
+ 📫 How to reach me ... at @aaqibmasoodii
+
 
 
 <!---
